@@ -2,8 +2,8 @@
 main:
   - title: "About Us"
     url: /aboutus
-  # - title: "Sample Posts"
-  #   url: /year-archive/
+  - title: "Registration"
+    url: /registration
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
